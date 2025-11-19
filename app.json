@@ -2,6 +2,11 @@
   "expo": {
     "name": "tarefanoti",
     "slug": "tarefanoti",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "89419230-009a-45d1-9ed7-2fc0436a5a91"
+      }
+    }
   }
 }
